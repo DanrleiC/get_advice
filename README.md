@@ -53,7 +53,7 @@ Para executar o projeto MyFlutterAdviceApp, você precisará ter o Flutter e o D
 1. Clone este repositório em sua máquina local:
 
 ```
-git clone https://github.com/seu-usuario/MyFlutterAdviceApp.git
+git clone https://github.com/DanrleiC/get_advice.git
 ```
 
 2. Acesse o diretório do projeto:
