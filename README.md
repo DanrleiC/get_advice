@@ -40,11 +40,11 @@ O aplicativo oferece uma maneira simples e interativa para os usuários recebere
 
 ## Dependências Externas
 
-O MyFlutterAdviceApp faz uso de duas principais dependências externas:
+O get_advice faz uso de duas principais dependências externas:
 
 1. **dio:** É utilizada para fazer as requisições à API de conselhos. Ela permite ao aplicativo se comunicar com o servidor e obter os dados necessários para exibir os conselhos.
 
-2. **translate:** É utilizada para realizar a tradução dos conselhos, caso a API retorne conselhos em idiomas diferentes e o usuário deseje visualizá-los em sua língua nativa.
+2. **translator:** É utilizada para realizar a tradução dos conselhos, caso a API retorne conselhos em idiomas diferentes e o usuário deseje visualizá-los em sua língua nativa.
 
 ## Como Executar o Projeto
 
